@@ -1,5 +1,3 @@
-# DSC180A Methodology Assignment 5
-
 ## Author Information
 **Name**: Ammie Xie  
 **Email**: axie@ucsd.edu  
